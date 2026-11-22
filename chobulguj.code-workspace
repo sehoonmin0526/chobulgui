@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.git": true,
+			"**/.svn": true,
+			"**/__pycache__": true,
+		},
+		"search.exclude": {
+     		"**/node_modules": true,
+      		"**/build": true
+    	}
+	}
+}

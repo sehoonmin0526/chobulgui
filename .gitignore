@@ -1,0 +1,29 @@
+# --- 비밀 정보 (절대 커밋 금지) ---
+api_key.py
+.env
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+build/
+dist/
+
+# --- 앱 실행 중 생성되는 사용자 상태 파일 ---
+last_model.txt
+system_msg.txt
+
+# --- 테스트용 입력/출력 자막 ---
+*.srt
+output.txt
+
+# --- 로그 ---
+*.log
+
+# --- OS / 에디터 ---
+.DS_Store
+Thumbs.db
+.idea/
