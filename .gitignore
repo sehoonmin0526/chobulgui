@@ -17,8 +17,7 @@ last_model.txt
 system_msg.txt
 
 # --- 테스트용 입력/출력 자막 ---
-*.srt
-output.txt
+.sample/
 
 # --- 로그 ---
 *.log
